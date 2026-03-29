@@ -34,3 +34,16 @@ You can run this project using XAMPP/WAMP or simply using PHP's built-in web ser
 1. Move the entire project folder into your `htdocs` directory (e.g. `C:\xampp\htdocs\user-management`).
 2. Start the Apache module in the XAMPP Control Panel.
 3. Open your browser and navigate to `http://localhost/user-management/register.php`
+
+
+
+## Screen Shots
+
+### User Not Registered
+<img width="412" height="387" alt="Screenshot 2026-03-29 150723" src="https://github.com/user-attachments/assets/6dec12e3-15a0-43a4-b79e-b4b79b714285" />
+
+### Successful Registration
+<img width="466" height="522" alt="Screenshot 2026-03-29 150958" src="https://github.com/user-attachments/assets/86b98b40-9e23-4452-9775-1415c48b41f6" />
+
+### Admin Dashboard
+<img width="726" height="460" alt="Screenshot 2026-03-29 151058" src="https://github.com/user-attachments/assets/dd4f2321-cd83-4eb9-9655-f48d547a3f37" />
